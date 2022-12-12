@@ -6,6 +6,6 @@
 
 💬 Ask me about React, Web Development, Linux, etc.
 
-📫 You can reach me at ffaranm15@gmail.com
+📫 You can reach me at kumarmanoj.bz@gmail.com
 
 ⚡ Fun fact I love travelling to new places
