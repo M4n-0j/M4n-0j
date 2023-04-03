@@ -1,10 +1,10 @@
-🔭 I am currently working on Angular and Java
+🔭 I am currently working on Angular and Node
 
-🚀 Right now, I am trying to gain a good command over Javascript and React.
+🚀 Right now, I am trying to gain a good command over Javascript.
 
 👯 I’m looking to collaborate with anyone on any project.
 
-💬 Ask me about React/Angular, Web Development, etc.
+💬 Ask me about Angular, Web Development, javascript etc.
 
 📫 You can reach me at kumarmanoj.bz@gmail.com
 
